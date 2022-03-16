@@ -8,7 +8,7 @@ Para utilizar a calculadora de penas é muito simples, basta baixar e descompact
 
 A calculadora funciona independentemente de acesso à internet.
 
-Também é muito leve, pois foi elaborada diretamente em Javascript sem a utilização de nenhum pacote ou qualquer dependência externa.
+Também é muito leve, pois foi elaborada em Javascript puro sem nenhum pacote ou dependência externa.
 
 Utilize, preferencialmente, no Google Chrome, embora possa ser utilizada em qualquer navegador de sua preferência. 
 
