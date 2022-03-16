@@ -16,7 +16,7 @@ No link Ajuda, constam as instruções e a metodologia de cálculo das penas.
 
 A calculadora de penas, por funcionar offline, não notifica o usuário da publicação de eventuais atualizações. 
 
-Para obter novas funcionalidades, consulte esta página no GitHub, cujo link consta na calculadora de penas.
+Para obter atualizações e novas funcionalidades, consulte esta página no GitHub, cujo link consta na calculadora de penas.
 
 ![penas](https://user-images.githubusercontent.com/55038339/158497633-b66bcc8a-803b-473a-9676-2ec7ebc826fb.png)
 
