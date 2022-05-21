@@ -4,6 +4,8 @@ Calculadora de penas criminais
 
 Versão atual 2.1
 
+SHA1 8827a5daa9ba27cb754cfd5efbef4e61a26813d4
+
 Para utilizar a calculadora de penas é muito simples, basta baixar no botão Code acima, em Download ZIP, e descompactar o arquivo penas.zip em uma pasta local no computador. Em seguida, abrir no navegador o arquivo Penas.html, com duplo clique, ou arrastando e soltando sobre a janela do navegador (pode então ser adicionado aos favoritos, facilitando acessos posteriores).
 
 A calculadora funciona independentemente de acesso à internet.
