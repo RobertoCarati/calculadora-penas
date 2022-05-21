@@ -20,7 +20,7 @@ Para obter atualizações e novas funcionalidades, consulte esta página no GitH
 
 Uma alternativa para a descompactação é o software gratuito 7-Zip (https://www.7-zip.org/).
 
-![penas](https://github.com/RobertoCarati/calculadora-penas/blob/919793916aeb61ff5e5761609f703f532fe47fbb/penas.png)
+![penas](https://github.com/RobertoCarati/calculadora-penas/blob/e002a135a4553eb64296d5356a168bc4f9244f85/penas.png)
 
 
 ATUALIZAÇÕES:
