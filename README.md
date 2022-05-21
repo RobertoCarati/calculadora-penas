@@ -20,11 +20,11 @@ Para obter atualizações e novas funcionalidades, consulte esta página no GitH
 
 Uma alternativa para a descompactação é o software gratuito 7-Zip (https://www.7-zip.org/).
 
-![penas](https://user-images.githubusercontent.com/55038339/158497633-b66bcc8a-803b-473a-9676-2ec7ebc826fb.png)
+![penas](https://github.com/RobertoCarati/calculadora-penas/blob/919793916aeb61ff5e5761609f703f532fe47fbb/penas.png)
 
 
-ATUALIZAÇÕES
+ATUALIZAÇÕES:
 
-Versão 2.1 
+Versão 2.1 (20/05/2022)
 - Correção na pena mínima do 2º 12.850/13 (OrgCrim) de 4 para 3 anos;
 - Correção no 171 (Estelionato), foi retirado o § 3º, já que a pena inicia com 1 ano de reclusão, sem a majorante. 
