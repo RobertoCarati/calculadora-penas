@@ -2,7 +2,7 @@
 
 Calculadora de penas criminais
 
-Versão atual 2.0
+Versão atual 2.1
 
 Para utilizar a calculadora de penas é muito simples, basta baixar no botão Code acima, em Download ZIP, e descompactar o arquivo penas.zip em uma pasta local no computador. Em seguida, abrir no navegador o arquivo Penas.html, com duplo clique, ou arrastando e soltando sobre a janela do navegador (pode então ser adicionado aos favoritos, facilitando acessos posteriores).
 
@@ -22,3 +22,9 @@ Uma alternativa para a descompactação é o software gratuito 7-Zip (https://ww
 
 ![penas](https://user-images.githubusercontent.com/55038339/158497633-b66bcc8a-803b-473a-9676-2ec7ebc826fb.png)
 
+
+ATUALIZAÇÕES
+
+Versão 2.1 
+- Correção na pena mínima do 2º 12.850/13 (OrgCrim) de 4 para 3 anos;
+- Correção no 171 (Estelionato), foi retirado o § 3º, já que a pena inicia com 1 ano de reclusão, sem a majorante. 
