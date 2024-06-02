@@ -20,7 +20,7 @@ Para obter atualizações e novas funcionalidades, consulte esta página no GitH
 
 Uma alternativa para a descompactação é o software gratuito 7-Zip (https://www.7-zip.org/).
 
-Para quem desejar conferir a integridade do arquivo penas.zip, o SHA1 é 8827a5daa9ba27cb754cfd5efbef4e61a26813d4.
+Para quem desejar conferir a integridade do arquivo penas.zip, o SHA1 é 7a4ac632eba92aea88c57ca279aa23ff969dab71.
 
 ![penas](https://github.com/RobertoCarati/calculadora-penas/blob/e002a135a4553eb64296d5356a168bc4f9244f85/penas.png)
 
